@@ -1,0 +1,6 @@
+c:\users\eng.hadeel alhazwara\documents\visual studio 2015\Projects\Compiler Final\Compiler Final\bin\Debug\Compiler Final.exe.config
+c:\users\eng.hadeel alhazwara\documents\visual studio 2015\Projects\Compiler Final\Compiler Final\bin\Debug\Compiler Final.exe
+c:\users\eng.hadeel alhazwara\documents\visual studio 2015\Projects\Compiler Final\Compiler Final\bin\Debug\Compiler Final.pdb
+c:\users\eng.hadeel alhazwara\documents\visual studio 2015\Projects\Compiler Final\Compiler Final\obj\Debug\Compiler Final.csprojResolveAssemblyReference.cache
+c:\users\eng.hadeel alhazwara\documents\visual studio 2015\Projects\Compiler Final\Compiler Final\obj\Debug\Compiler Final.exe
+c:\users\eng.hadeel alhazwara\documents\visual studio 2015\Projects\Compiler Final\Compiler Final\obj\Debug\Compiler Final.pdb
