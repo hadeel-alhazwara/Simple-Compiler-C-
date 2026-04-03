@@ -91,6 +91,8 @@ int x = 5 + 3;
 x = 8
 ```
 
+
+
 ## 🎯 Purpose
 
 This project was developed as part of a university assignment to understand compiler design concepts such as tokenization, parsing, AST construction, and semantic validation.
@@ -101,7 +103,6 @@ This project was developed as part of a university assignment to understand comp
 * Improve error handling
 * Add a simple GUI interface
 * Support more data types
-
 ## 👩‍💻 Author
 
-Hadeel
+Hadeel Al-hazwara
